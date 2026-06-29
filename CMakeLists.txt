@@ -3,7 +3,7 @@
 cmake_minimum_required(VERSION 3.27)
 project(log_server_project
         VERSION 1.0.0
-        DESCRIPTION "Ingestao e consulta de logs estruturados."
+        DESCRIPTION "Ingestao and consulta of logs structured."
         HOMEPAGE_URL "https://git.example.com/log-server-project"
         LANGUAGES C)
 
